@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/bin/Debug/net7.0/Ex01
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/bin/Debug/net7.0/Ex01.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/bin/Debug/net7.0/Ex01.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/bin/Debug/net7.0/Ex01.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/bin/Debug/net7.0/Ex01.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/refint/Ex01.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/Ex01.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/FirstClassExercise/Ex01/Ex01/obj/Debug/net7.0/ref/Ex01.dll
