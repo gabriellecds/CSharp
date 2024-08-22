@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/bin/Debug/net7.0/SimpleProduct
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/bin/Debug/net7.0/SimpleProduct.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/bin/Debug/net7.0/SimpleProduct.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/bin/Debug/net7.0/SimpleProduct.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/bin/Debug/net7.0/SimpleProduct.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/refint/SimpleProduct.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/SimpleProduct.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/SimpleProduct/SimpleProduct/obj/Debug/net7.0/ref/SimpleProduct.dll

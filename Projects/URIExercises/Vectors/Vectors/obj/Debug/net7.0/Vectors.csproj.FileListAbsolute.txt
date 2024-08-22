@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/bin/Debug/net7.0/Vectors
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/bin/Debug/net7.0/Vectors.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/bin/Debug/net7.0/Vectors.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/bin/Debug/net7.0/Vectors.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/bin/Debug/net7.0/Vectors.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/refint/Vectors.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/Vectors.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Vectors/Vectors/obj/Debug/net7.0/ref/Vectors.dll

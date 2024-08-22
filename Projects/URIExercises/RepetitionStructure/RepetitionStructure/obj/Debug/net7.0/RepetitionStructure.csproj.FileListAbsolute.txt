@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/bin/Debug/net7.0/RepetitionStructure
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/bin/Debug/net7.0/RepetitionStructure.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/bin/Debug/net7.0/RepetitionStructure.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/bin/Debug/net7.0/RepetitionStructure.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/bin/Debug/net7.0/RepetitionStructure.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/refint/RepetitionStructure.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/RepetitionStructure.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/RepetitionStructure/RepetitionStructure/obj/Debug/net7.0/ref/RepetitionStructure.dll

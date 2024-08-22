@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AreaOfACircle/1.0.0": {
+        "runtime": {
+          "AreaOfACircle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaOfACircle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

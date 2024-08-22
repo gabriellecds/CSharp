@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6A83ED0B-8BFD-4DAF-A9E9-00C37CC783B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepetitionStructure/Program.cs">
+    <Files>
+      <File FileName="RepetitionStructure/Program.cs" Line="30" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepetitionStructure" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="RepetitionStructure" expanded="True">
+            <Node name="RepetitionStructure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RepetitionStructure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

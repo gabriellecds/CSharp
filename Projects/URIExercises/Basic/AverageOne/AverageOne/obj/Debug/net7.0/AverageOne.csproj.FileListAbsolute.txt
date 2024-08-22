@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/bin/Debug/net7.0/AverageOne
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/bin/Debug/net7.0/AverageOne.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/bin/Debug/net7.0/AverageOne.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/bin/Debug/net7.0/AverageOne.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/bin/Debug/net7.0/AverageOne.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/refint/AverageOne.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/AverageOne.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/AverageOne/AverageOne/obj/Debug/net7.0/ref/AverageOne.dll

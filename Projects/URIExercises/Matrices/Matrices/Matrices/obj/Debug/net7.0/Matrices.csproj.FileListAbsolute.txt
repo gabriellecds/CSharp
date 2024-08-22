@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/bin/Debug/net7.0/Matrices
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/bin/Debug/net7.0/Matrices.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/bin/Debug/net7.0/Matrices.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/bin/Debug/net7.0/Matrices.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/bin/Debug/net7.0/Matrices.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/refint/Matrices.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/Matrices.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/Matrices/Matrices/Matrices/obj/Debug/net7.0/ref/Matrices.dll

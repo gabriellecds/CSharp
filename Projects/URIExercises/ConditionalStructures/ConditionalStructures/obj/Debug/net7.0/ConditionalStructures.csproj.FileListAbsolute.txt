@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/bin/Debug/net7.0/ConditionalStructures
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/bin/Debug/net7.0/ConditionalStructures.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/bin/Debug/net7.0/ConditionalStructures.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/bin/Debug/net7.0/ConditionalStructures.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/bin/Debug/net7.0/ConditionalStructures.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/refint/ConditionalStructures.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ConditionalStructures.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/ConditionalStructures/ConditionalStructures/obj/Debug/net7.0/ref/ConditionalStructures.dll

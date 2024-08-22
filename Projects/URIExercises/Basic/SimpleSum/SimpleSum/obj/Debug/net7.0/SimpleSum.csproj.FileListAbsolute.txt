@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/bin/Debug/net7.0/SimpleSum
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/bin/Debug/net7.0/SimpleSum.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/bin/Debug/net7.0/SimpleSum.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/bin/Debug/net7.0/SimpleSum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/bin/Debug/net7.0/SimpleSum.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/refint/SimpleSum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/SimpleSum.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1003-SimpleSum/SimpleSum/obj/Debug/net7.0/ref/SimpleSum.dll

@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/bin/Debug/net7.0/AreaOfACircle
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/bin/Debug/net7.0/AreaOfACircle.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/bin/Debug/net7.0/AreaOfACircle.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/bin/Debug/net7.0/AreaOfACircle.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/bin/Debug/net7.0/AreaOfACircle.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/refint/AreaOfACircle.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/AreaOfACircle.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/URIExercises/1002/AreaOfACircle/AreaOfACircle/obj/Debug/net7.0/ref/AreaOfACircle.dll
