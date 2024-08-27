@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/bin/Debug/net7.0/Stock
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/bin/Debug/net7.0/Stock.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/bin/Debug/net7.0/Stock.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/bin/Debug/net7.0/Stock.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/bin/Debug/net7.0/Stock.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/refint/Stock.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/Stock.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Stock/Stock/obj/Debug/net7.0/ref/Stock.dll
