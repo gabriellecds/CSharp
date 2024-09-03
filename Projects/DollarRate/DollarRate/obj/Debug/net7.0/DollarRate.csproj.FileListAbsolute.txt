@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/bin/Debug/net7.0/DollarRate
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/bin/Debug/net7.0/DollarRate.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/bin/Debug/net7.0/DollarRate.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/bin/Debug/net7.0/DollarRate.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/bin/Debug/net7.0/DollarRate.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/refint/DollarRate.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/DollarRate.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DollarRate/DollarRate/obj/Debug/net7.0/ref/DollarRate.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D8053CC3-7DD5-43D9-B300-A01B0DC6C553}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DollarRate/Program.cs">
+    <Files>
+      <File FileName="DollarRate/Program.cs" Line="16" Column="17" />
+      <File FileName="DollarRate/ConversorDeMoeda.cs" Line="15" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DollarRate" expanded="True">
+            <Node name="DollarRate">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DollarRate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
