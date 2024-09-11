@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/bin/Debug/net7.0/Rooms
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/bin/Debug/net7.0/Rooms.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/bin/Debug/net7.0/Rooms.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/bin/Debug/net7.0/Rooms.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/bin/Debug/net7.0/Rooms.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/refint/Rooms.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/Rooms.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Rooms/Rooms/obj/Debug/net7.0/ref/Rooms.dll

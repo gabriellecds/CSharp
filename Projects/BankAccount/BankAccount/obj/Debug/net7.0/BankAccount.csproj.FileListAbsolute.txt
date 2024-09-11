@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/bin/Debug/net7.0/BankAccount
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/bin/Debug/net7.0/BankAccount.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/bin/Debug/net7.0/BankAccount.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/bin/Debug/net7.0/BankAccount.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/bin/Debug/net7.0/BankAccount.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/refint/BankAccount.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/BankAccount.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/BankAccount/BankAccount/obj/Debug/net7.0/ref/BankAccount.dll
