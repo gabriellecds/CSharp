@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/bin/Debug/net7.0/Lists
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/bin/Debug/net7.0/Lists.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Lists/Lists/obj/Debug/net7.0/ref/Lists.dll
