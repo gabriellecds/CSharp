@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/bin/Debug/net7.0/demoStringBuilder
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/bin/Debug/net7.0/demoStringBuilder.deps.json
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/bin/Debug/net7.0/demoStringBuilder.runtimeconfig.json
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/bin/Debug/net7.0/demoStringBuilder.dll
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/bin/Debug/net7.0/demoStringBuilder.pdb
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.AssemblyInfo.cs
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.dll
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/refint/demoStringBuilder.dll
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.pdb
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/demoStringBuilder.genruntimeconfig.cache
+/Users/gabrielleoliveira/Projects/demoStringBuilder/demoStringBuilder/obj/Debug/net7.0/ref/demoStringBuilder.dll
