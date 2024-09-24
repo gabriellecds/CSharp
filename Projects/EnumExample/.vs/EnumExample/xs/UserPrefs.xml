@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6BF353DF-9E57-4090-A97A-9BCF27E7BAF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumExample/Program.cs">
+    <Files>
+      <File FileName="EnumExample/Program.cs" Line="29" Column="1" />
+      <File FileName="EnumExample/Entities/Order.cs" Line="19" Column="27" />
+      <File FileName="EnumExample/Entities/Enums/OrderStatus.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnumExample" expanded="True">
+            <Node name="EnumExample">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EnumExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -8,88 +8,47 @@ namespace Matrices
         static void Main(string[] args)
         {
 
-            int N = int.Parse(Console.ReadLine());
-            double[,] A = new double[N, N];
-            double[,] alt = new double[N, N]; 
+            string[] a = Console.ReadLine().Split(' ');
+            int m = int.Parse(a[0]);
+            int n = int.Parse(a[1]);
+            int i, j; 
 
-            int i, j;
+            int[,] mat = new int[m, n];
 
-            for(i=0; i<N; i++)
+            for(i = 0; i < m; i++)
             {
-                string[] s = Console.ReadLine().Split(' ');
+                string[] v = Console.ReadLine().Split(' ');
 
-                for (j=0; j<N; j++)
+                for(j = 0; j < n; j++)
                 {
-                    A[i, j] = double.Parse(s[j]); 
+                    mat[i, j] = int.Parse(v[j]); 
                 }
             }
 
-            double soma = 0.0;
+            int value = int.Parse(Console.ReadLine());
 
-            //for (i = 0; i < N; i++)
-            //{
-            //    for (j = 0; j < N; j++)
-            //    {
-            //        if (A[i,j] > 0)
-            //        {
-            //            soma += A[i, j]; 
-            //        }
-            //    }
-            //}
-
-            //Console.WriteLine("SOMA DOS POSITIVOS: " + soma.ToString("F1", CultureInfo.InvariantCulture));
-
-
-            //int linha = int.Parse(Console.ReadLine());
-            //Console.Write("LINHA ESCOLHIDA: ");
-
-            //for (j = 0; j < N; j++)
-            //{
-            //    Console.Write(A[linha, j] + " ");
-
-            //}
-            //Console.WriteLine();
-
-            //int coluna = int.Parse(Console.ReadLine());
-            //Console.Write("COLUNA ESCOLHIDA: ");
-
-            //for (i = 0; i < N; i++)
-            //{
-            //    Console.Write(A[i, coluna] + " ");
-
-            //}
-            //Console.WriteLine();
-
-
-            //Console.Write("DIAGONAL PRINCIPAL: ");
-
-            //for (i = 0; i < N; i++)
-            //{
-            //    Console.Write(A[i, i] + " ");
-            //}
-            //Console.WriteLine();
-
-            Console.WriteLine("MATRIZ ALTERADA: ");
-            for (i = 0; i < N; i++)
+            for(i = 0; i < m; i++)
             {
-                for (j = 0; j < N; j++)
+                for(j = 0; j < n; j++)
                 {
-                    
-
-                    if (A[i, j] < 0)
+                    if (mat[i, j] == value)
                     {
-                        alt[i, j] = A[i, j] * A[i, j];
+                        Console.WriteLine("Position " + i + ", " + j + ":");
 
-                        A[i, j] = alt[i, j];
+                        string left = (j > 0) ? "Left: " + mat[i, j - 1] : null;
+                        string right = (j < n - 1) ? "Right: " + mat[i, j + 1] : null;
+                        string down = (i < m - 1) ? "Down: " + mat[i + 1, j] : null;
+                        string up = (i > 0) ? "Up: " + mat[i - 1, j] : null;
 
+                        if (left != null) Console.WriteLine(left);
+                        if (right != null) Console.WriteLine(right);
+                        if (down != null) Console.WriteLine(down);
+                        if (up != null) Console.WriteLine(up);
                     }
-
-                    Console.Write(A[i, j] + " ");
-
                 }
-
-                Console.WriteLine();
             }
+
+            Console.WriteLine();
 
         }
     }

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C4497CB1-85CA-46EF-971A-05C3C333A684}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExerciseEnum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseEnum/Program.cs">
+    <Files>
+      <File FileName="ExerciseEnum/Program.cs" Line="57" Column="55" />
+      <File FileName="ExerciseEnum/Entities/Department.cs" />
+      <File FileName="ExerciseEnum/Entities/HourContract.cs" />
+      <File FileName="ExerciseEnum/Entities/Worker.cs" />
+      <File FileName="ExerciseEnum/Entities/Enums/WorkerLevel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseEnum" expanded="True">
+            <Node name="ExerciseEnum">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

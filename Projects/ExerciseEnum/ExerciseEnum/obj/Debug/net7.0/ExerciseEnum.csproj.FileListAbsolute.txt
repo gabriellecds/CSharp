@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/bin/Debug/net7.0/ExerciseEnum
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/bin/Debug/net7.0/ExerciseEnum.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/bin/Debug/net7.0/ExerciseEnum.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/bin/Debug/net7.0/ExerciseEnum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/bin/Debug/net7.0/ExerciseEnum.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/refint/ExerciseEnum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ExerciseEnum.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExerciseEnum/ExerciseEnum/obj/Debug/net7.0/ref/ExerciseEnum.dll
