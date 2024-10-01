@@ -1,5 +1,7 @@
 ﻿<Properties StartupConfiguration="{336CF641-DE24-4BBE-8993-D2688411B532}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="demoStringBuilder/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.demoStringBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demoStringBuilder/Entities/Post.cs">
     <Files>
       <File FileName="demoStringBuilder/Program.cs" Line="40" Column="2" />
       <File FileName="demoStringBuilder/Entities/Comment.cs" Line="19" Column="1" />
@@ -9,9 +11,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="demoStringBuilder" expanded="True">
-            <Node name="demoStringBuilder">
-              <Node name="Entities" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+            <Node name="demoStringBuilder" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Post.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -21,8 +24,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.demoStringBuilder PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

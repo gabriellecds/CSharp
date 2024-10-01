@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/bin/Debug/net7.0/OrderEnum
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/bin/Debug/net7.0/OrderEnum.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/bin/Debug/net7.0/OrderEnum.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/bin/Debug/net7.0/OrderEnum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/bin/Debug/net7.0/OrderEnum.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/refint/OrderEnum.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/OrderEnum.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/OrderEnum/OrderEnum/obj/Debug/net7.0/ref/OrderEnum.dll
