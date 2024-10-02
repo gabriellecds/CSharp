@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C5403768-AA6F-4186-8711-5D4A957376A6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BanksAccount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BanksAccount/Program.cs">
+    <Files>
+      <File FileName="BanksAccount/Program.cs" Line="22" Column="1" />
+      <File FileName="BanksAccount/Entities/Account.cs" Line="20" Column="10" />
+      <File FileName="BanksAccount/Entities/BusinessAccount.cs" Line="12" Column="4" />
+      <File FileName="BanksAccount/Entities/SavingsAccount.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BanksAccount" expanded="True">
+            <Node name="BanksAccount">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
