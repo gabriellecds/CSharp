@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/bin/Debug/net7.0/Company
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/bin/Debug/net7.0/Company.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/bin/Debug/net7.0/Company.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/bin/Debug/net7.0/Company.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/bin/Debug/net7.0/Company.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/refint/Company.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/Company.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Company/Company/obj/Debug/net7.0/ref/Company.dll
