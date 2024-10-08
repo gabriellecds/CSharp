@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{C5403768-AA6F-4186-8711-5D4A957376A6}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BanksAccount PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BanksAccount/Program.cs">
     <Files>
-      <File FileName="BanksAccount/Program.cs" Line="39" Column="37" />
-      <File FileName="BanksAccount/Entities/Account.cs" Line="20" Column="10" />
-      <File FileName="BanksAccount/Entities/BusinessAccount.cs" />
-      <File FileName="BanksAccount/Entities/SavingsAccount.cs" Line="29" Column="6" />
+      <File FileName="BanksAccount/Program.cs" Line="39" Column="1" />
+      <File FileName="BanksAccount/Entities/Account.cs" Line="4" Column="11" />
+      <File FileName="BanksAccount/Entities/BusinessAccount.cs" Line="1" Column="1" />
+      <File FileName="BanksAccount/Entities/SavingsAccount.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BanksAccount">
-            <Node name="BanksAccount">
+          <Node name="BanksAccount" expanded="True">
+            <Node name="BanksAccount" expanded="True">
+              <Node name="Entities" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,8 +21,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BanksAccount PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

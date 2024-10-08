@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DE6FC419-6460-41E2-83E0-6F60E02DA662}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Contributors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contributors/Program.cs">
+    <Files>
+      <File FileName="Contributors/Program.cs" Line="52" Column="14" />
+      <File FileName="Contributors/Entities/Account.cs" Line="9" Column="59" />
+      <File FileName="Contributors/Entities/Individuals.cs" Line="38" Column="1" />
+      <File FileName="Contributors/Entities/Companies.cs" Line="25" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Contributors" expanded="True">
+            <Node name="Contributors">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

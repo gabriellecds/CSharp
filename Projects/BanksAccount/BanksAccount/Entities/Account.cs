@@ -1,7 +1,7 @@
 ﻿
 namespace BanksAccount.Entities
 {
-	class Account
+	abstract class Account
 	{
 
 		public int Number { get; private set; }

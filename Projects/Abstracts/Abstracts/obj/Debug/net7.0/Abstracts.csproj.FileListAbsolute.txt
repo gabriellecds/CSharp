@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/bin/Debug/net7.0/Abstracts
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/bin/Debug/net7.0/Abstracts.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/bin/Debug/net7.0/Abstracts.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/bin/Debug/net7.0/Abstracts.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/bin/Debug/net7.0/Abstracts.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/refint/Abstracts.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/Abstracts.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Abstracts/Abstracts/obj/Debug/net7.0/ref/Abstracts.dll
