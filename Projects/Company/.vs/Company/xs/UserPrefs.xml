@@ -1,7 +1,6 @@
 ﻿<Properties StartupConfiguration="{1B16352D-84ED-4F9C-9E20-AD17874BC03E}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Company/Program.cs">
     <Files>
       <File FileName="Company/Program.cs" Line="22" Column="41" />
@@ -12,7 +11,8 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Company" expanded="True">
-            <Node name="Company">
+            <Node name="Company" expanded="True">
+              <Node name="Entities" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -20,8 +20,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Company PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Company PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

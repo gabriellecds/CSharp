@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4E1F0C41-3A0D-45BD-8FEF-8D6747BD2183}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Store/Entities/ImportedProduct.cs">
+    <Files>
+      <File FileName="Store/Program.cs" Line="43" Column="18" />
+      <File FileName="Store/Entities/Product.cs" Line="15" Column="1" />
+      <File FileName="Store/Entities/ImportedProduct.cs" Line="24" Column="76" />
+      <File FileName="Store/Entities/UsedProduct.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Store" expanded="True">
+            <Node name="Store">
+              <Node name="Entities" expanded="True">
+                <Node name="ImportedProduct.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Store PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
