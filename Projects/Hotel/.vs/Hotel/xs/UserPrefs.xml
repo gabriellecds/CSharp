@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FE73FF3F-5563-4E9B-B30C-3AB69EE364E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hotel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel/Program.cs">
+    <Files>
+      <File FileName="Hotel/Program.cs" Line="51" Column="2" />
+      <File FileName="Hotel/Entities/Reservation.cs" Line="30" Column="10" />
+      <File FileName="Hotel/Entities/Exceptions/DomainException.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotel" expanded="True">
+            <Node name="Hotel">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/bin/Debug/net7.0/Hotel
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/bin/Debug/net7.0/Hotel.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/bin/Debug/net7.0/Hotel.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/bin/Debug/net7.0/Hotel.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/bin/Debug/net7.0/Hotel.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/refint/Hotel.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/Hotel.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hotel/Hotel/obj/Debug/net7.0/ref/Hotel.dll
