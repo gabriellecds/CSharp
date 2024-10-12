@@ -1,0 +1,30 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/bin/Debug/net7.0/CarRental
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/bin/Debug/net7.0/CarRental.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/bin/Debug/net7.0/CarRental.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/bin/Debug/net7.0/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/bin/Debug/net7.0/CarRental.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/refint/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/CarRental.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/CarRental/CarRental/obj/Debug/net7.0/ref/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/bin/Debug/net7.0/CarRental
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/bin/Debug/net7.0/CarRental.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/bin/Debug/net7.0/CarRental.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/bin/Debug/net7.0/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/bin/Debug/net7.0/CarRental.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/refint/CarRental.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/CarRental.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ICarRental /CarRental/obj/Debug/net7.0/ref/CarRental.dll
