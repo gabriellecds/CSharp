@@ -1,31 +1,34 @@
 ﻿<Properties StartupConfiguration="{DDA92F8E-1D11-428B-A9AB-6771EE9FFC83}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CarRental PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CarRental/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarRental/Services/BrazilTaxService.cs">
     <Files>
-      <File FileName="CarRental/Program.cs" Line="33" Column="44" />
+      <File FileName="CarRental/Program.cs" />
       <File FileName="CarRental/Entities/Vehicle.cs" />
       <File FileName="CarRental/Entities/Invoice.cs" />
       <File FileName="CarRental/Entities/Rental.cs" />
       <File FileName="CarRental/Services/BrazilTaxService.cs" Line="15" Column="4" />
-      <File FileName="CarRental/Services/RentalService.cs" Line="39" Column="2" />
+      <File FileName="CarRental/Services/RentalService.cs" />
       <File FileName="CarRental/Services/ITaxService.cs" Line="5" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CarRental" expanded="True">
-            <Node name="CarRental">
-              <Node name="Program.cs" selected="True" />
+          <Node name="CarRental">
+            <Node name="CarRental" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="BrazilTaxService.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CarRental PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

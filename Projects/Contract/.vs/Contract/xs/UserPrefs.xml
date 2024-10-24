@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DC6A1F07-6C29-4596-8130-9038267F6955}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contract/Program.cs">
+    <Files>
+      <File FileName="Contract/Program.cs" Line="29" Column="46" />
+      <File FileName="Contract/Entities /Contracts.cs" Line="18" Column="28" />
+      <File FileName="Contract/Services/PaypalTaxService.cs" Line="17" Column="44" />
+      <File FileName="Contract/Entities /Installment.cs" Line="21" Column="10" />
+      <File FileName="Contract/Services/IOnlinePaymentService.cs" Line="7" Column="47" />
+      <File FileName="Contract/Services/ContractService.cs" Line="27" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Contract" expanded="True">
+            <Node name="Contract">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Contract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
