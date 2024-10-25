@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/bin/Debug/net7.0/HashSet&SortedSet
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/bin/Debug/net7.0/HashSet&SortedSet.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/bin/Debug/net7.0/HashSet&SortedSet.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/bin/Debug/net7.0/HashSet&SortedSet.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/bin/Debug/net7.0/HashSet&SortedSet.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/refint/HashSet&SortedSet.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/HashSet&SortedSet.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/HashSet&SortedSet/HashSet&SortedSet/obj/Debug/net7.0/ref/HashSet&SortedSet.dll

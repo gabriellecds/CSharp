@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D69951BC-6F74-42DB-A8E2-B4D32D26EFD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.HashSet_226SortedSet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashSet&amp;SortedSet/Program.cs">
+    <Files>
+      <File FileName="HashSet&amp;SortedSet/Program.cs" Line="43" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HashSet&amp;SortedSet" expanded="True">
+            <Node name="HashSet&amp;SortedSet">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
