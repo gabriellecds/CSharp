@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/bin/Debug/net7.0/Hash
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/bin/Debug/net7.0/Hash.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/bin/Debug/net7.0/Hash.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/bin/Debug/net7.0/Hash.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/bin/Debug/net7.0/Hash.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/refint/Hash.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/Hash.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Hash/Hash/obj/Debug/net7.0/ref/Hash.dll
