@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0735404F-4926-46EB-86AD-F5B84D5965E8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetHashCode&amp;Equals/Program.cs">
+    <Files>
+      <File FileName="GetHashCode&amp;Equals/Program.cs" Line="4" Column="54" />
+      <File FileName="GetHashCode&amp;Equals/Entities/Client.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetHashCode&amp;Equals" expanded="True">
+            <Node name="GetHashCode&amp;Equals">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GetHashCode_226Equals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
