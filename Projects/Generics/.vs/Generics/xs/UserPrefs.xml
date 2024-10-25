@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{ACC20364-6D97-4AF0-BB60-6D736C1F6FC3}|Default">
-  <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/PrintService.cs">
+    <Files>
+      <File FileName="Generics/Program.cs" Line="19" Column="61" />
+      <File FileName="Generics/PrintService.cs" Line="18" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generics" expanded="True">
+            <Node name="Generics">
+              <Node name="PrintService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

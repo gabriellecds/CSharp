@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/bin/Debug/net7.0/RestrictingGenerics
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/bin/Debug/net7.0/RestrictingGenerics.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/bin/Debug/net7.0/RestrictingGenerics.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/bin/Debug/net7.0/RestrictingGenerics.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/bin/Debug/net7.0/RestrictingGenerics.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/refint/RestrictingGenerics.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/RestrictingGenerics.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Generics/RestrictingGenerics/RestrictingGenerics/obj/Debug/net7.0/ref/RestrictingGenerics.dll
