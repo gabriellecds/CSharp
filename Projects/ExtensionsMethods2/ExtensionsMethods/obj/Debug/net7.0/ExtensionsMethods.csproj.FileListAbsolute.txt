@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/bin/Debug/net7.0/ExtensionsMethods
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/bin/Debug/net7.0/ExtensionsMethods.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/bin/Debug/net7.0/ExtensionsMethods.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/bin/Debug/net7.0/ExtensionsMethods.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/bin/Debug/net7.0/ExtensionsMethods.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/refint/ExtensionsMethods.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ExtensionsMethods.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/ExtensionsMethods2/ExtensionsMethods/obj/Debug/net7.0/ref/ExtensionsMethods.dll
