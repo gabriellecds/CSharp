@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{586B8D77-808F-422C-ACCA-3213766127CA}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.RecordSet PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="RecordSet/Program.cs">
     <Files>
-      <File FileName="RecordSet/Program.cs" Line="1" Column="1" />
+      <File FileName="RecordSet/Program.cs" Line="25" Column="34" />
+      <File FileName="RecordSet/Entities/LogRecord.cs" Line="17" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RecordSet" expanded="True">
+          <Node name="RecordSet">
             <Node name="RecordSet" expanded="True">
+              <Node name="Entities" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +23,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RecordSet PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
