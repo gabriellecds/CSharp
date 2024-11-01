@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/bin/Debug/net7.0/Elections
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/bin/Debug/net7.0/Elections.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/bin/Debug/net7.0/Elections.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/bin/Debug/net7.0/Elections.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/bin/Debug/net7.0/Elections.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/refint/Elections.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/Elections.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Elections/Elections/obj/Debug/net7.0/ref/Elections.dll
