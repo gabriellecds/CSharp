@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/bin/Debug/net7.0/Comparison
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/bin/Debug/net7.0/Comparison.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/bin/Debug/net7.0/Comparison.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/bin/Debug/net7.0/Comparison.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/bin/Debug/net7.0/Comparison.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/refint/Comparison.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/Comparison.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Comparison/Comparison/obj/Debug/net7.0/ref/Comparison.dll
