@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/bin/Debug/net7.0/DelegateDemo
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/bin/Debug/net7.0/DelegateDemo.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/bin/Debug/net7.0/DelegateDemo.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/bin/Debug/net7.0/DelegateDemo.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/bin/Debug/net7.0/DelegateDemo.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/refint/DelegateDemo.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/DelegateDemo.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/DelegateDemo/DelegateDemo/obj/Debug/net7.0/ref/DelegateDemo.dll
