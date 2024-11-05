@@ -1,0 +1,15 @@
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/bin/Debug/net7.0/Action
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/bin/Debug/net7.0/Action.deps.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/bin/Debug/net7.0/Action.runtimeconfig.json
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/bin/Debug/net7.0/Action.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/bin/Debug/net7.0/Action.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.csproj.AssemblyReference.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.AssemblyInfoInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.AssemblyInfo.cs
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.csproj.CoreCompileInputs.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/refint/Action.dll
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.pdb
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/Action.genruntimeconfig.cache
+/Users/gabrielleoliveira/Downloads/CSharp/Projects/Action/Action/obj/Debug/net7.0/ref/Action.dll
